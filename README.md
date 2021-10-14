@@ -34,9 +34,6 @@ Enjoys both working together with others as well as handling tasks autonomously.
 
 ---------
 
-<!--- PDF_ADD< <br />  !> --->
-<!--- PDF_ADD< <br />  !> --->
-
 ### Technical Skills
 
 **Kotlin & Java** // Main programming languages.
@@ -54,6 +51,9 @@ Enjoys both working together with others as well as handling tasks autonomously.
 **Security & Encryption** // Familiar with best practices and most common algorithms.
 
 ---------
+
+<!--- PDF_ADD< <br />  !> --->
+<!--- PDF_ADD< <br />  !> --->
 
 ### Technologies
 
