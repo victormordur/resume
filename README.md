@@ -126,4 +126,4 @@ Enjoys both working together with others as well as handling tasks autonomously.
 
 ------
 
-[Download PDF](https://github.com/vmordur/resume/releases/latest/download/victor_moreno_resume.pdf)
+[Download PDF](https://github.com/victormordur/resume/releases/latest/download/victor_moreno_resume.pdf)
